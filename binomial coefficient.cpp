@@ -57,6 +57,6 @@ int binomial_dp2(int n, int k)
 int main()
 {
     int n = 5, k = 2;
-    printf ("Value of C(%d, %d) is %d ", n, k, binomial_dp(n, k) );
+    printf ("Value of C(%d, %d) is %d ", n, k, binomial_dp2(n, k) );
     return 0;
 }
