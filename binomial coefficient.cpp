@@ -38,6 +38,7 @@ int binomial_dp(int n,int k)
 }
 
 //dp approach space optimized
+// new space complexity O(k)
 
 int binomial_dp2(int n, int k)
 {
