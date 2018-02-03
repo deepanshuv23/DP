@@ -1,4 +1,4 @@
-#include<iostream.h>
+#include<iostream.h>    
 using namespace std;
 
 //recursive approach to find binomial coefficient

@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
+
 //printing the lcs function
+
 void print_lcs(string x,string y)
 {
     int m,n;
