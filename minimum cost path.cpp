@@ -3,7 +3,7 @@
 #include<limits.h>
 #define R 3
 #define C 3
- 
+ // apply a greedy approach 
 int min(int x, int y, int z);
  
 int minCost(int cost[R][C], int m, int n)
