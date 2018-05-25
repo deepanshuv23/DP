@@ -3,7 +3,7 @@
 // A Dynamic Programming solution for subset sum problem
 #include <stdio.h>
   
-// Returns true if there is a subset of set[] with sun equal to given sum
+// Returns true if there is a subset of set[] with sum equal to given sum
 bool isSubsetSum(int set[], int n, int sum)
 {
     // The value of subset[i][j] will be true if there is a 

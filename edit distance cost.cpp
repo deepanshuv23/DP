@@ -1,6 +1,14 @@
 #include<bits/stdc++.h>
 using namespace std;
- 
+ /* Given two strings str1 and str2 and below operations that can performed on str1. 
+ Find minimum number of edits (operations) required to convert ‘str1’ into ‘str2’.
+
+Insert
+Remove
+Replace
+
+*/
+
 // Utility function to find minimum of three numbers
 int min(int x, int y, int z)
 {
